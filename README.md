@@ -7,4 +7,4 @@ Scripts for assemble GCN publication
 - DEG_CEL.R - differential gene expression analysis
 - enrichmentAnalysis.R - perform GO and KEGG enrichment analysis
 - networkEvaluation.py - topological network data
-
+- obtencion_cancernetworks.R - simple GNC 
